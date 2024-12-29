@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Chithramali Sewwandi!
 
-<!--
-**eg204212/eg204212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer engineering student at the University of Ruhuna, currently working as a Quality Assurance Engineer Intern at Eleos Web Pvt. Ltd. I am passionate about software quality and have developed a keen understanding of testing methodologies, API testing, and automation during my internship. In addition to my QA work, I have a strong foundation in web development and problem-solving skills. I am eager to continue growing my career in quality assurance and web development, contributing to high-performing engineering teams.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Programming: JavaScript, Python, C++
+- Frontend: React, HTML, CSS
+- Backend: Node.js, Express
+- Tools: Git, Docker, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+
+## 📫 Connect with Me
+- [LinkedIn]
+- [Portfolio]
