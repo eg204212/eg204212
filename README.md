@@ -8,9 +8,6 @@ I am a computer engineering student at the University of Ruhuna, currently worki
 - Backend: Node.js, Express
 - Tools: Git, Docker, Postman
 
-## 🚀 Projects
-
-
 ## 📫 Connect with Me
-- [LinkedIn : https://www.linkedin.com/in/chithramali-sewwandi-513186287/?originalSubdomain=lk]
-- [Email : chithramalisewwandi20@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/chithramali-sewwandi-513186287/?originalSubdomain=lk)
+- [Email](chithramalisewwandi20@gmail.com)
