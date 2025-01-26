@@ -12,5 +12,5 @@ I am a computer engineering student at the University of Ruhuna, currently worki
 
 
 ## 📫 Connect with Me
-- [LinkedIn]
-- [Portfolio]
+- [LinkedIn : https://www.linkedin.com/in/chithramali-sewwandi-513186287/?originalSubdomain=lk]
+- [Email : chithramalisewwandi20@gmail.com]
