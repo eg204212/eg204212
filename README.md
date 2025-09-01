@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Chithramali Sewwandi
 
 🎓 Computer Engineering Student | University of Ruhuna
+
 💻 Aspiring Software Engineer & ML/AI Enthusiast
+
 🌱 Former QA Engineer Intern @ Eleos Web Pvt. Ltd.
 
 ## 🚀 About Me
