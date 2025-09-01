@@ -1,12 +1,30 @@
-# 👋 Hi, I'm Chithramali Sewwandi!
+# 👋 Hi, I'm Chithramali Sewwandi
 
-I am a computer engineering student at the University of Ruhuna, currently working as a Quality Assurance Engineer Intern at Eleos Web Pvt. Ltd. I am passionate about software quality and have developed a keen understanding of testing methodologies, API testing, and automation during my internship. In addition to my QA work, I have a strong foundation in web development and problem-solving skills. I am eager to continue growing my career in quality assurance and web development, contributing to high-performing engineering teams.
+🎓 Computer Engineering Student | University of Ruhuna
+💻 Aspiring Software Engineer & ML/AI Enthusiast
+🌱 Former QA Engineer Intern @ Eleos Web Pvt. Ltd.
+
+## 🚀 About Me
+
+💡 Passionate about building intelligent systems with ML/AI
+🔍 Skilled in software quality assurance and test automation
+⚡ Experienced in web development (MERN stack)
+📊 Strong interest in data-driven problem solving
+🎯 Actively seeking opportunities in Machine Learning and Software Engineering
 
 ## 🛠 Skills
-- Programming: JavaScript, Python, C++
-- Frontend: React, HTML, CSS
-- Backend: Node.js, Express
-- Tools: Git, Docker, Postman
+
+Programming & Scripting
+Python JavaScript C++
+
+Machine Learning & Data
+NumPy Pandas Scikit-learn TensorFlow / PyTorch OpenCV
+
+Web Development
+React Node.js Express HTML CSS MongoDB
+
+Tools & Platforms
+Git Docker Postman VS Code Jupyter Notebooks
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/chithramali-sewwandi-513186287/?originalSubdomain=lk)
