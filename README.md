@@ -9,9 +9,13 @@
 ## 🚀 About Me
 
 💡 Passionate about building intelligent systems with ML/AI
+
 🔍 Skilled in software quality assurance and test automation
-⚡ Experienced in web development (MERN stack)
+
+⚡ Experienced in web development
+
 📊 Strong interest in data-driven problem solving
+
 🎯 Actively seeking opportunities in Machine Learning and Software Engineering
 
 ## 🛠 Skills
@@ -29,5 +33,5 @@ Tools & Platforms
 Git Docker Postman VS Code Jupyter Notebooks
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/chithramali-sewwandi-513186287/?originalSubdomain=lk)
-- [Email](chithramalisewwandi20@gmail.com)
+- [Sewwandi_LinkedIn](https://www.linkedin.com/in/chithramali-sewwandi-513186287/?originalSubdomain=lk)
+- [My_Email](chithramalisewwandi20@gmail.com)
