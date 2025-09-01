@@ -20,17 +20,17 @@
 
 ## 🛠 Skills
 
-Programming & Scripting
-Python JavaScript C++
+Programming & Scripting 
+- Python, JavaScript, C++
 
 Machine Learning & Data
-NumPy Pandas Scikit-learn TensorFlow / PyTorch OpenCV
+- NumPy, Pandas, Scikit-learn, PyTorch, OpenCV
 
 Web Development
-React Node.js Express HTML CSS MongoDB
+- React, Node.js, Express, HTML, CSS, MongoDB
 
 Tools & Platforms
-Git Docker Postman VS Code Jupyter Notebooks
+- Git, Docker, Postman, VS Code, Jupyter Notebooks
 
 ## 📫 Connect with Me
 - [Sewwandi_LinkedIn](https://www.linkedin.com/in/chithramali-sewwandi-513186287/?originalSubdomain=lk)
