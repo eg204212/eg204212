@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chithramali Sewwandi
 
-🎓 Computer Engineering Student | University of Ruhuna
+🎓 Computer Engineering Student | Faculty of Engineering | University of Ruhuna
 
 💻 Aspiring Software Engineer & ML/AI Enthusiast
 
