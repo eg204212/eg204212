@@ -1,4 +1,4 @@
-👋 Hi, I'm Chithramali Sewwandi
+# 👋 Hi, I'm Chithramali Sewwandi
 
 🎓 BSc. (Hons) in Computer Engineering | Faculty of Engineering | University of Ruhuna
 
