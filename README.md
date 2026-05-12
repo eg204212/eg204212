@@ -2,7 +2,7 @@
 
 🎓 BSc. (Hons) in Computer Engineering | Faculty of Engineering | University of Ruhuna
 
-💻 Aspiring Software Engineer & ML/AI Enthusiast
+💻 Aspiring Software Engineer | ML/AI Enthusiast | Data Engineering
 
 🌱 Former QA Engineer Intern @ Eleos Web Pvt. Ltd.
 
